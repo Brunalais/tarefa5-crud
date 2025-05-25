@@ -1,10 +1,9 @@
 {
   "name": "tarefa5-crud",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "inicio.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node inicio.js"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +12,6 @@
     "express": "^5.1.0",
     "sequelize": "^6.37.7",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "description": ""
 }
